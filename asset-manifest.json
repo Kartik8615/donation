@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/donation/static/css/main.d5a95d38.chunk.css",
+    "main.js": "/donation/static/js/main.e755bd1a.chunk.js",
+    "main.js.map": "/donation/static/js/main.e755bd1a.chunk.js.map",
+    "runtime-main.js": "/donation/static/js/runtime-main.cfaf618f.js",
+    "runtime-main.js.map": "/donation/static/js/runtime-main.cfaf618f.js.map",
+    "static/css/2.f2512455.chunk.css": "/donation/static/css/2.f2512455.chunk.css",
+    "static/js/2.16662659.chunk.js": "/donation/static/js/2.16662659.chunk.js",
+    "static/js/2.16662659.chunk.js.map": "/donation/static/js/2.16662659.chunk.js.map",
+    "static/js/3.65e3aad0.chunk.js": "/donation/static/js/3.65e3aad0.chunk.js",
+    "static/js/3.65e3aad0.chunk.js.map": "/donation/static/js/3.65e3aad0.chunk.js.map",
+    "index.html": "/donation/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/donation/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.d5a95d38.chunk.css.map": "/donation/static/css/main.d5a95d38.chunk.css.map",
+    "static/js/2.16662659.chunk.js.LICENSE.txt": "/donation/static/js/2.16662659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfaf618f.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.16662659.chunk.js",
+    "static/css/main.d5a95d38.chunk.css",
+    "static/js/main.e755bd1a.chunk.js"
+  ]
+}
