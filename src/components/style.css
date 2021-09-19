@@ -1,0 +1,30 @@
+form{
+    display: block;
+    margin-top: 0em;
+    text-align: center;
+    background-color: #000;
+    border-radius: 0em;
+}
+form :hover{
+    cursor: pointer;
+}
+.header{
+    border-bottom: 2px solid #AAA008;
+    background-color: rgba(17, 165, 169, 0.5);
+}
+.header li a{
+    text-decoration: dotted;
+    color: white;
+}
+li a:hover{
+    text-decoration: none;
+    color: yellow;
+    font-weight: 700;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
